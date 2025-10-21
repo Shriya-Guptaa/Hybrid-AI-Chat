@@ -1,0 +1,7 @@
+#requirements modified
+neo4j==5.9.0
+pyvis
+pinecone
+groq
+tqdm
+sentence-transformers
