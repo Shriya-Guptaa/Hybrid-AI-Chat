@@ -4,7 +4,7 @@
 This project builds a **travel assistant** that can understand natural-language questions and respond using data retrieved from both **Pinecone**  and **Neo4j**.
 It has been fully refactored to remove deprecated APIs and replace paid dependencies with open, modern, and cost-free equivalents.
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 Hybrid-AI-chat/
@@ -21,7 +21,7 @@ Hybrid-AI-chat/
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Set up environment**
 
@@ -67,7 +67,7 @@ Hybrid-AI-chat/
 ** NOTE : Make sure neo4j is installed on local device and running in the background before running hybrid_chat_new.py or any neo4j related files.**
 ---
 
-## 🧠 Key Improvements
+##  Key Improvements
 
 | Area              | Improvement                                      | Impact                                          |
 | ----------------- | ------------------------------------------------ | ----------------------------------------------- |
@@ -81,7 +81,7 @@ Hybrid-AI-chat/
 
 ---
 
-## ✅ Deliverables
+##  Deliverables
 
 | Task       | Deliverable                                     |
 | ---------- | ----------------------------------------------- |
