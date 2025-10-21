@@ -4,21 +4,6 @@
 This project builds a **travel assistant** that can understand natural-language questions and respond using data retrieved from both **Pinecone**  and **Neo4j**.
 It has been fully refactored to remove deprecated APIs and replace paid dependencies with open, modern, and cost-free equivalents.
 
-##  Project Structure
-
-```
-Hybrid-AI-chat/
-│
-├── hybrid_chat_new.py                    # Main conversational logic (hybrid retrieval)
-├── pinecone_upload_sentenceTransform.py  # Uploads embeddings to Pinecone
-├── load_to_neo4j.py                      # Loads dataset into Neo4j
-├── visualize_graph.py                    # Generates HTML graph visualization
-├── vietnam_travel_dataset.json           # Travel knowledge base
-├── config.py                             # Environment keys (ignored in .gitignore)
-├── requirements.txt                      # Dependencies
-└── improvements.md                       # Summary of bug fixes and enhancements
-```
-
 ---
 
 ##  Setup Instructions
@@ -86,9 +71,7 @@ Hybrid-AI-chat/
 | Task       | Deliverable                                     |
 | ---------- | ----------------------------------------------- |
 | **Task 1** | Screenshot of successful Pinecone uploads       |
-
 | **Task 2** | Working CLI chat session using hybrid retrieval |
-
 | **Task 3** | Documented improvements (`improvements.md`)     |
 
 
