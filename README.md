@@ -5,6 +5,10 @@ This project builds a **travel assistant** that can understand natural-language 
 It has been fully refactored to remove deprecated APIs and replace paid dependencies with open, modern, and cost-free equivalents.
 
 ---
+### Project Screenshots
+![Successful Pinecone Upload](images/Pinecone_upload-1.png)
+
+![Working CLI](images/hybrid_chat_CLI.png)
 
 ##  Setup Instructions
 
@@ -74,4 +78,8 @@ It has been fully refactored to remove deprecated APIs and replace paid dependen
 | **Task 2** | Working CLI chat session using hybrid retrieval |
 | **Task 3** | Documented improvements (`improvements.md`)     |
 
+---
 
+## Acknowledgment
+This repository was created as part of a technical assessment for Blue-Enigma.
+It served as a great learning experience in building and optimizing hybrid AI systems.
