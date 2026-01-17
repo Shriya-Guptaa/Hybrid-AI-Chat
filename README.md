@@ -81,5 +81,4 @@ It has been fully refactored to remove deprecated APIs and replace paid dependen
 ---
 
 ## Acknowledgment
-This repository was created as part of a technical assessment for Blue-Enigma.
 It served as a great learning experience in building and optimizing hybrid AI systems.
